@@ -24,7 +24,7 @@ The Amazon Sellers Data Extraction Script is a tool designed to streamline the p
 6. Find the generated report in the same directory.
 
 ## Video
-![Amazon Data Extraction](https://youtu.be/MWlfdJ97YDI?si=k0XdaX3y59xFbXHi)
+[![YouTube Video](https://img.youtube.com/vi/MWlfdJ97YDI/0.jpg)](https://www.youtube.com/watch?v=MWlfdJ97YDI)
 
 ## Limitations
 
