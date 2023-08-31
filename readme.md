@@ -1,6 +1,5 @@
 # Amazon Sellers Data Extraction Script
-
-(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwpadvancedads.com%2Fwp-content%2Fuploads%2F2017%2F10%2Famazon-logo-300x271.png&tbnid=2yygitWTXCPzFM&vet=12ahUKEwjp7NmK84eBAxXhuokEHRoYBHYQMygGegQIARBA..i&imgrefurl=https%3A%2F%2Fwpadvancedads.com%2Famazon-affiliate-program-wordpress%2F&docid=QEV_UO9urwF-eM&w=300&h=271&q=Amazon%20link%20of%20image&client=ubuntu&ved=2ahUKEwjp7NmK84eBAxXhuokEHRoYBHYQMygGegQIARBA)
+![Amazon](https://www.amazon.com)
 
 The Amazon Sellers Data Extraction Script is a tool designed to streamline the process of extracting crucial data from the Amazon website. This script specifically targets sellers offering the same products and also extracts the comprehensive list of products each seller has on offer. 
 
